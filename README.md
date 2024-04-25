@@ -24,3 +24,7 @@ https://github.com/sanitizers/octomachinery
 https://nextjs.org/
 
 https://tailwindcss.com/
+
+## Admin Template
+
+https://tailadmin.com/nextjs
