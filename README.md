@@ -28,3 +28,7 @@ https://tailwindcss.com/
 ## Admin Template
 
 https://tailadmin.com/nextjs
+
+## GitHub Login
+
+https://medium.com/@vi.nhon.53th/next-js-v13-demo-login-with-github-and-google-31cd56e547de
