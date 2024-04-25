@@ -18,3 +18,9 @@ https://github.com/PyGithub/PyGithub
 https://github.com/google/go-github
 
 https://github.com/sanitizers/octomachinery
+
+## Front End Frameworks
+
+https://nextjs.org/
+
+https://tailwindcss.com/
