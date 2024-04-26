@@ -25,6 +25,10 @@ https://nextjs.org/
 
 https://tailwindcss.com/
 
+## Headless CMS
+
+https://github.com/strapi/strapi
+
 ## Admin Template
 
 https://tailadmin.com/nextjs
